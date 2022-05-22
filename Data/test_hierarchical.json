@@ -1,5 +1,3 @@
-											
-{"Country": "Albania", "Curency":"Lek", "Exchange_to_eur":0.0083, "Family_of_4_monthly_costs": 175470.62, "Single_person_monthly_costs":50069.88,
 {"children":
     [{"name":"Restaurant","children":
         [{"name":"Meal_Inexpensive_Restaurant","value":525,"colname":"level3"},
@@ -68,5 +66,5 @@
     "colname":"level2"},
     {"name":"Additional","children":
         [{"name":"Average_Monthly_Net_Salary","value":44339.07,"colname":"level3"},
-        {"name":"Mortgage_Interest_Rate_%","value":4.83,"colname":"level3"}],]}
-    }
+        {"name":"Mortgage_Interest_Rate_%","value":4.83,"colname":"level3"}],
+    "colname":"level2"}]}
