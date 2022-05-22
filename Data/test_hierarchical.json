@@ -46,7 +46,7 @@
     "colname":"level2"},
     {"name":"Education","children":
         [{"name":"Preschool_for_1_Child","value":14881.72,"colname":"level3"},
-        {"name":"International_Primary_School_Yearly_1_Child","value":303339.16,"colname":"level3"}],
+        {"name":"International_Primary_School_Yearly_1_Child","value":303339.16/23,"colname":"level3"}],
     "colname":"level2"},
     {"name":"Clothes","children":
         [{"name":"Jeans","value":4721.79,"colname":"level3"},
