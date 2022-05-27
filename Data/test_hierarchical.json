@@ -9,7 +9,11 @@
         {"name":"Coke","value":131.84,"colname":"level3"},
         {"name":"Water","value":65.84,"colname":"level3"}],
     "colname":"level2"},
+<<<<<<< HEAD
     {"name":"Grocceries","children":
+=======
+    {"name":"Groceries","children":
+>>>>>>> c6dd9120209bfb8bd35810c6ac622e72a348ae33
         [{"name":"Milk_1l","value":128.94,"colname":"level3"},
         {"name":"Loaf_of_bread","value":69.13,"colname":"level3"},
         {"name":"Rice_1kg","value":135.02,"colname":"level3"},
@@ -46,7 +50,11 @@
     "colname":"level2"},
     {"name":"Education","children":
         [{"name":"Preschool_for_1_Child","value":14881.72,"colname":"level3"},
+<<<<<<< HEAD
         {"name":"International_Primary_School_Yearly_1_Child","value":303339.16,"colname":"level3"}],
+=======
+        {"name":"International_Primary_School_Yearly_1_Child","value":25278.26 ,"colname":"level3"}],
+>>>>>>> c6dd9120209bfb8bd35810c6ac622e72a348ae33
     "colname":"level2"},
     {"name":"Clothes","children":
         [{"name":"Jeans","value":4721.79,"colname":"level3"},
@@ -55,6 +63,7 @@
         {"name":"Men_Leather_Business_Shoes","value":9090.29,"colname":"level3"}],
     "colname":"level2"},
     {"name":"Apartment_rent","children":
+<<<<<<< HEAD
         [{"name":"Apartment_1_bed_CityCentre","value":35915.55,"colname":"level3"},
         {"name":"Apartment_1_bed_OutsideCentre","value":21735.64,"colname":"level3"},
         {"name":"Apartment_3_bed_CityCentre","value":61835.11,"colname":"level3"},
@@ -68,3 +77,10 @@
         [{"name":"Average_Monthly_Net_Salary","value":44339.07,"colname":"level3"},
         {"name":"Mortgage_Interest_Rate_%","value":4.83,"colname":"level3"}],
     "colname":"level2"}]}
+=======
+        [{"name":"Apartment_1_bed_CityCentre","value":35915.55,"colname":"level3"}],
+    "colname":"level2"},
+    {"name":"Additional","children":
+        [{"name":"Average_Monthly_Net_Salary","value":44339.07,"colname":"level3"}],
+    "colname":"level2"}]}
+>>>>>>> c6dd9120209bfb8bd35810c6ac622e72a348ae33
