@@ -9,7 +9,7 @@
         {"name":"Coke","value":131.84,"colname":"level3"},
         {"name":"Water","value":65.84,"colname":"level3"}],
     "colname":"level2"},
-    {"name":"Grocceries","children":
+    {"name":"Groceries","children":
         [{"name":"Milk_1l","value":128.94,"colname":"level3"},
         {"name":"Loaf_of_bread","value":69.13,"colname":"level3"},
         {"name":"Rice_1kg","value":135.02,"colname":"level3"},
