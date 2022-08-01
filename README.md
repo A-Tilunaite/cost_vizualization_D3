@@ -12,4 +12,4 @@ Icons used for visualization are drawn using Inkscape and saved as svg files.
 1. Visualize mean salary of specified countries (in euros). Range of salaries is mapped from 1 to 10 coins for visualization, while precise salary is mentioned below (Currency was converted based on 2022-05-21 transfer rates).
 
 Attempt is in "Coins_mean_salary" folder. 
-![Coins_mean_salary output](./Images/Average_net_salary_in_eur.pdf"Output of code from "Coins_mean_salary" folder")
+![Coins_mean_salary output](/Images/Average_net_salary_in_eur.pdf"Output of code from "Coins_mean_salary" folder")
