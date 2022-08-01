@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Expenses in countries </title>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js" integrity="sha256-qXBd/EfAdjOA2FGrGAG+b3YBn2tn5A6bhz+LSgYD96k=" crossorigin="anonymous"></script>
+        <style>
+            body{
+                position: fixed;
+                left: 1px;
+                right: 1px;
+                top: 1px;
+                bottom: 1px;
+                margin: 1px;
+            }
+            #my_legend{
+                position:relative;
+                z-index: -1;
+                left: 80%;
+                bottom: 18%;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- <div id="svg-container"></div> -->
+        <div id="my_dataviz"></div>
+        <div id="my_legend"></div>
+        <!-- <script src="get_europe_coordinates.js" defer></script> -->
+        <script src="app_tree_tr3.js" defer></script>
+    </body>
+</html>
